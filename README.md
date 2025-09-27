@@ -158,7 +158,7 @@ This section provides a utility for visualizing model predictions.
 *   Passes the image through the model to get classification probabilities and regression predictions.
 *   Displays the image with its ground truth class, predicted class, and predicted valence/arousal values in the title.
 
-## 🏁 Main Run
+##  Main Run
 
 This section orchestrates the entire training and evaluation process.
 
